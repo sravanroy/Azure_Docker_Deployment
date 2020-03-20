@@ -1,2 +1,3 @@
 # Azure_Docker_Deployment
-Deployed a ML app on Azure by using docker container
+* Deployed a ML (LightBGM) app on Azure by using docker container
+* The entire process flow is given here <www.google.com>
